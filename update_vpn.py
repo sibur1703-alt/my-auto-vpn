@@ -2,6 +2,15 @@ import requests
 import urllib.parse
 import yaml
 
+# --- МАГИЯ: Заставляем YAML всегда ставить кавычки ---
+class QuotedStr(str): pass
+
+def quoted_scalar(dumper, data):
+    return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='"')
+
+yaml.add_representer(QuotedStr, quoted_scalar)
+# -----------------------------------------------------
+
 def parse_vless(url):
     url = url.strip()
     if not url.startswith('vless://'): return None
@@ -20,17 +29,15 @@ def parse_vless(url):
             proxy["servername"] = params.get("sni", server)
             if params.get("fp"): proxy["client-fingerprint"] = params.get("fp")
         
-        # --- ИДЕАЛЬНЫЙ ФИЛЬТР REALITY ---
         if params.get("security") == "reality":
             sid = params.get("sid", "")
             if sid:
-                # Если SID есть, жестко проверяем его
                 if len(sid) > 16 or len(sid) % 2 != 0 or not all(c in '0123456789abcdefABCDEF' for c in sid):
                     return None 
-                proxy["reality-opts"] = {"public-key": str(params.get("pbk", "")), "short-id": str(sid)}
+                # Оборачиваем short-id в нашу защиту, чтобы всегда были кавычки
+                proxy["reality-opts"] = {"public-key": params.get("pbk", ""), "short-id": QuotedStr(sid)}
             else:
-                # Если SID пустой, ВООБЩЕ ЕГО НЕ ПИШЕМ (Clash крашится от пустых строк)
-                proxy["reality-opts"] = {"public-key": str(params.get("pbk", ""))}
+                proxy["reality-opts"] = {"public-key": params.get("pbk", "")}
         
         net_type = params.get("type", "tcp")
         proxy["network"] = net_type
