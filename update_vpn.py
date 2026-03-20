@@ -20,15 +20,15 @@ def parse_vless(url):
             proxy["servername"] = params.get("sni", server)
             if params.get("fp"): proxy["client-fingerprint"] = params.get("fp")
         
-        # --- ИСПРАВЛЕНИЕ ДЛЯ REALITY ---
+        # --- ЖЕСТКИЙ ФИЛЬТР REALITY ---
         if params.get("security") == "reality":
             sid = params.get("sid", "")
-            # Clash Meta крашится, если short-id нечетной длины или с мусором.
-            # Если он кривой - просто отбрасываем этот битый сервер.
             if sid:
-                if len(sid) % 2 != 0 or not all(c in '0123456789abcdefABCDEF' for c in sid):
-                    return None
-            proxy["reality-opts"] = {"public-key": params.get("pbk", ""), "short-id": sid}
+                # Если ID длиннее 16, нечетный или содержит мусор - ВЫКИДЫВАЕМ
+                if len(sid) > 16 or len(sid) % 2 != 0 or not all(c in '0123456789abcdefABCDEF' for c in sid):
+                    return None 
+            # Принудительно делаем строкой, чтобы YAML не сошел с ума
+            proxy["reality-opts"] = {"public-key": str(params.get("pbk", "")), "short-id": str(sid)}
         
         net_type = params.get("type", "tcp")
         proxy["network"] = net_type
