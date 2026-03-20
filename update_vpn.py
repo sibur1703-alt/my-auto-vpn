@@ -29,17 +29,14 @@ def parse_vless(url):
             proxy["servername"] = params.get("sni", server)
             if params.get("fp"): proxy["client-fingerprint"] = params.get("fp")
         
-        # --- ИДЕАЛЬНЫЙ ФИЛЬТР REALITY ---
         if params.get("security") == "reality":
             sid = params.get("sid", "")
             if sid:
-                # Если SID есть, жестко проверяем его
                 if len(sid) > 16 or len(sid) % 2 != 0 or not all(c in '0123456789abcdefABCDEF' for c in sid):
                     return None 
-                proxy["reality-opts"] = {"public-key": params.get("pbk", ""), "short-id": QuotedStr(sid)}
+                proxy["reality-opts"] = {"public-key": str(params.get("pbk", "")), "short-id": QuotedStr(sid)}
             else:
-                # Если SID пустой, ВООБЩЕ ЕГО НЕ ПИШЕМ
-                proxy["reality-opts"] = {"public-key": params.get("pbk", "")}
+                proxy["reality-opts"] = {"public-key": str(params.get("pbk", ""))}
         
         net_type = params.get("type", "tcp")
         proxy["network"] = net_type
@@ -51,13 +48,21 @@ def parse_vless(url):
     except: return None
 
 def main():
-    print("🚀 Запускаем мега-пылесос! Собираем все 26 баз...")
+    print("🚀 Запускаем мега-пылесос! Собираем базы со всего интернета...")
+    
+    # 1. Генерируем 26 ссылок на Гойду
+    urls = [f"https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/{i}.txt" for i in range(1, 27)]
+    
+    # 2. Дополнительные базы серверов
+    urls.extend([
+        # База igareck (Внимание: если это CIDR-лист, серверов тут не будет)
+        "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt"
+    ])
+
     proxies = []
     names = []
     
-    # Качаем все 26 файлов
-    for i in range(1, 27):
-        url = f"https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/{i}.txt"
+    for url in urls:
         try:
             resp = requests.get(url, timeout=10)
             if resp.status_code == 200:
@@ -74,14 +79,15 @@ def main():
                         proxies.append(p)
                         names.append(p["name"])
                         valid_count += 1
-                print(f"✅ Файл {i}.txt обработан. Найдено: {valid_count}")
+                filename = url.split('/')[-1]
+                print(f"✅ Файл {filename} обработан. Найдено: {valid_count}")
             else:
-                print(f"⚠️ Файл {i}.txt недоступен (Код: {resp.status_code})")
+                print(f"⚠️ Файл по ссылке недоступен (Код: {resp.status_code})")
         except Exception as e:
-            print(f"❌ Ошибка скачивания {i}.txt: {e}")
+            print(f"❌ Ошибка скачивания {url.split('/')[-1]}: {e}")
 
     if not proxies:
-        print("⚠️ Нет валидных серверов во всех 26 файлах!")
+        print("⚠️ Нет валидных серверов!")
         return
 
     clash_config = {
