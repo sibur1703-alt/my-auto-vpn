@@ -20,15 +20,17 @@ def parse_vless(url):
             proxy["servername"] = params.get("sni", server)
             if params.get("fp"): proxy["client-fingerprint"] = params.get("fp")
         
-        # --- ЖЕСТКИЙ ФИЛЬТР REALITY ---
+        # --- ИДЕАЛЬНЫЙ ФИЛЬТР REALITY ---
         if params.get("security") == "reality":
             sid = params.get("sid", "")
             if sid:
-                # Если ID длиннее 16, нечетный или содержит мусор - ВЫКИДЫВАЕМ
+                # Если SID есть, жестко проверяем его
                 if len(sid) > 16 or len(sid) % 2 != 0 or not all(c in '0123456789abcdefABCDEF' for c in sid):
                     return None 
-            # Принудительно делаем строкой, чтобы YAML не сошел с ума
-            proxy["reality-opts"] = {"public-key": str(params.get("pbk", "")), "short-id": str(sid)}
+                proxy["reality-opts"] = {"public-key": str(params.get("pbk", "")), "short-id": str(sid)}
+            else:
+                # Если SID пустой, ВООБЩЕ ЕГО НЕ ПИШЕМ (Clash крашится от пустых строк)
+                proxy["reality-opts"] = {"public-key": str(params.get("pbk", ""))}
         
         net_type = params.get("type", "tcp")
         proxy["network"] = net_type
