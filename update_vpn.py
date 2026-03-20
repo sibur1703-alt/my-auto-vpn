@@ -2,7 +2,7 @@ import requests
 import urllib.parse
 import yaml
 
-# --- МАГИЯ: Заставляем YAML всегда ставить кавычки ---
+# --- МАГИЯ: Заставляем YAML всегда ставить кавычки для цифр ---
 class QuotedStr(str): pass
 
 def quoted_scalar(dumper, data):
@@ -29,14 +29,16 @@ def parse_vless(url):
             proxy["servername"] = params.get("sni", server)
             if params.get("fp"): proxy["client-fingerprint"] = params.get("fp")
         
+        # --- ИДЕАЛЬНЫЙ ФИЛЬТР REALITY ---
         if params.get("security") == "reality":
             sid = params.get("sid", "")
             if sid:
+                # Если SID есть, жестко проверяем его
                 if len(sid) > 16 or len(sid) % 2 != 0 or not all(c in '0123456789abcdefABCDEF' for c in sid):
                     return None 
-                # Оборачиваем short-id в нашу защиту, чтобы всегда были кавычки
                 proxy["reality-opts"] = {"public-key": params.get("pbk", ""), "short-id": QuotedStr(sid)}
             else:
+                # Если SID пустой, ВООБЩЕ ЕГО НЕ ПИШЕМ
                 proxy["reality-opts"] = {"public-key": params.get("pbk", "")}
         
         net_type = params.get("type", "tcp")
@@ -49,31 +51,37 @@ def parse_vless(url):
     except: return None
 
 def main():
-    print("🔄 Скачиваем свежие конфиги...")
-    url = "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/26.txt"
-    try:
-        resp = requests.get(url, timeout=15)
-        resp.raise_for_status()
-        lines = resp.text.splitlines()
-    except Exception as e:
-        print(f"❌ Ошибка скачивания: {e}")
-        return
-
+    print("🚀 Запускаем мега-пылесос! Собираем все 26 баз...")
     proxies = []
     names = []
-    for line in lines:
-        p = parse_vless(line)
-        if p:
-            orig_name = p["name"]
-            c = 1
-            while p["name"] in names:
-                p["name"] = f"{orig_name} {c}"
-                c += 1
-            proxies.append(p)
-            names.append(p["name"])
+    
+    # Качаем все 26 файлов
+    for i in range(1, 27):
+        url = f"https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/{i}.txt"
+        try:
+            resp = requests.get(url, timeout=10)
+            if resp.status_code == 200:
+                lines = resp.text.splitlines()
+                valid_count = 0
+                for line in lines:
+                    p = parse_vless(line)
+                    if p:
+                        orig_name = p["name"]
+                        c = 1
+                        while p["name"] in names:
+                            p["name"] = f"{orig_name} {c}"
+                            c += 1
+                        proxies.append(p)
+                        names.append(p["name"])
+                        valid_count += 1
+                print(f"✅ Файл {i}.txt обработан. Найдено: {valid_count}")
+            else:
+                print(f"⚠️ Файл {i}.txt недоступен (Код: {resp.status_code})")
+        except Exception as e:
+            print(f"❌ Ошибка скачивания {i}.txt: {e}")
 
     if not proxies:
-        print("⚠️ Нет валидных серверов!")
+        print("⚠️ Нет валидных серверов во всех 26 файлах!")
         return
 
     clash_config = {
@@ -91,7 +99,7 @@ def main():
 
     with open("flclash_config.yaml", "w", encoding="utf-8") as f:
         yaml.dump(clash_config, f, allow_unicode=True, sort_keys=False)
-    print(f"✅ Готово! Сконвертировано серверов: {len(proxies)}")
+    print(f"\n🎉 ГОТОВО! Мега-база собрана. Итого серверов: {len(proxies)}")
 
 if __name__ == "__main__":
     main()
