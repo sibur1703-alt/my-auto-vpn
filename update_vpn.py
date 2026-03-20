@@ -19,8 +19,16 @@ def parse_vless(url):
             proxy["tls"] = True
             proxy["servername"] = params.get("sni", server)
             if params.get("fp"): proxy["client-fingerprint"] = params.get("fp")
+        
+        # --- ИСПРАВЛЕНИЕ ДЛЯ REALITY ---
         if params.get("security") == "reality":
-            proxy["reality-opts"] = {"public-key": params.get("pbk", ""), "short-id": params.get("sid", "")}
+            sid = params.get("sid", "")
+            # Clash Meta крашится, если short-id нечетной длины или с мусором.
+            # Если он кривой - просто отбрасываем этот битый сервер.
+            if sid:
+                if len(sid) % 2 != 0 or not all(c in '0123456789abcdefABCDEF' for c in sid):
+                    return None
+            proxy["reality-opts"] = {"public-key": params.get("pbk", ""), "short-id": sid}
         
         net_type = params.get("type", "tcp")
         proxy["network"] = net_type
@@ -47,7 +55,6 @@ def main():
     for line in lines:
         p = parse_vless(line)
         if p:
-            # Убираем дубликаты имен
             orig_name = p["name"]
             c = 1
             while p["name"] in names:
