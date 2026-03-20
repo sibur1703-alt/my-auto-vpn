@@ -10,7 +10,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: vII0ktWC5uuvMBFEvgYpftqq6mCjEfCpEg_s8eT_oh8
-    short-id: ''
   network: tcp
 - name: 🇵🇱[openproxylist.com] vless-PL
   type: vless
@@ -49,7 +48,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: eP0MKUFOcNVSVFbHT8GgBLP4LIHZFq8JuVGlCAlH1HI
-    short-id: ''
   network: tcp
 - name: 🇩🇪[openproxylist.com] vless-DE
   type: vless
@@ -126,7 +124,6 @@ proxies:
   servername: 89.185.81.169
   reality-opts:
     public-key: ''
-    short-id: ''
   network: tcp
 - name: '@Vip_Security join us - 220'
   type: vless
@@ -243,7 +240,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8
-    short-id: ''
   network: tcp
 - name: 🌐سرور 445 | Esf-29| MTSRVRS
   type: vless
@@ -725,7 +721,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8
-    short-id: ''
   network: tcp
 - name: RU   VLESS-TCP-RLT - LLC VK  109.120.182.146
   type: vless
@@ -777,7 +772,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: IoqdElDP9GWy1X-oJ_dn2mKlOGh7texrBsYyVY5Jf1Q
-    short-id: ''
   network: tcp
 - name: KZ   VLESS-TCP-RLT - Megahost Kazakhstan TOO  31.56.240.124
   type: vless
@@ -897,7 +891,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇩🇪 DE-10574'
   type: vless
@@ -936,7 +929,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇩🇪 DE-11190'
   type: vless
@@ -961,7 +953,6 @@ proxies:
   servername: max.ru
   reality-opts:
     public-key: cCeGgxiO3VNTKwu3ncB6DORtOaDuC53BM3cNzQ2Elg4
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇩🇪 DE-11201'
   type: vless
@@ -973,7 +964,6 @@ proxies:
   servername: max.ru
   reality-opts:
     public-key: cCeGgxiO3VNTKwu3ncB6DORtOaDuC53BM3cNzQ2Elg4
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇩🇪 DE-11210'
   type: vless
@@ -999,7 +989,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇺🇸 US-13745'
   type: vless
@@ -1037,7 +1026,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇺🇸 US-14217'
   type: vless
@@ -1050,7 +1038,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: I69t4VQEvCY-NlQuMVHGggvJ2aNo18gWstkmA-uQWxE
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇺🇸 US-14218'
   type: vless
@@ -1063,7 +1050,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: I69t4VQEvCY-NlQuMVHGggvJ2aNo18gWstkmA-uQWxE
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇺🇸 US-14228'
   type: vless
@@ -1075,7 +1061,6 @@ proxies:
   servername: max.ru
   reality-opts:
     public-key: cCeGgxiO3VNTKwu3ncB6DORtOaDuC53BM3cNzQ2Elg4
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇺🇸 US-14233'
   type: vless
@@ -1088,7 +1073,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: vII0ktWC5uuvMBFEvgYpftqq6mCjEfCpEg_s8eT_oh8
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇺🇸 US-14242'
   type: vless
@@ -1101,7 +1085,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: I69t4VQEvCY-NlQuMVHGggvJ2aNo18gWstkmA-uQWxE
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇺🇸 US-14243'
   type: vless
@@ -1114,7 +1097,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: I69t4VQEvCY-NlQuMVHGggvJ2aNo18gWstkmA-uQWxE
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇳🇱 NL-579'
   type: vless
@@ -1182,7 +1164,6 @@ proxies:
   servername: max.ru
   reality-opts:
     public-key: cCeGgxiO3VNTKwu3ncB6DORtOaDuC53BM3cNzQ2Elg4
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇳🇱 NL-3180'
   type: vless
@@ -1194,7 +1175,6 @@ proxies:
   servername: max.ru
   reality-opts:
     public-key: cCeGgxiO3VNTKwu3ncB6DORtOaDuC53BM3cNzQ2Elg4
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇳🇱 NL-3181'
   type: vless
@@ -1206,7 +1186,6 @@ proxies:
   servername: max.ru
   reality-opts:
     public-key: cCeGgxiO3VNTKwu3ncB6DORtOaDuC53BM3cNzQ2Elg4
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇳🇱 NL-3182'
   type: vless
@@ -1231,7 +1210,6 @@ proxies:
   servername: max.ru
   reality-opts:
     public-key: cCeGgxiO3VNTKwu3ncB6DORtOaDuC53BM3cNzQ2Elg4
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇷🇺 RU-1342'
   type: vless
@@ -1270,7 +1248,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇷🇺 RU-12425'
   type: vless
@@ -1508,7 +1485,6 @@ proxies:
   client-fingerprint: ios
   reality-opts:
     public-key: d70gxi5InFIqGr0tAJkA1xjXsc2ToJjr2uLxvkj2kk0
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇷🇺 RU-13437'
   type: vless
@@ -1727,7 +1703,6 @@ proxies:
   servername: eh.vk.com
   reality-opts:
     public-key: jT1C5ozRQX0gE9sG60WuUKvw_Z0CprjfjjwncLn1HRo
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇷🇺 RU-13501'
   type: vless
@@ -1949,7 +1924,6 @@ proxies:
   servername: yandex.ru
   reality-opts:
     public-key: 5NDQBeOG4yGXBwm5NTzUHwezxLbTiFhW4X061I4ykVk
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇷🇺 RU-13541'
   type: vless
@@ -1962,7 +1936,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: TaMOLW0wrgU13SvRWpjnlCWMs6nsdoQAN3RcApyu3yk
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇷🇺 RU-13544'
   type: vless
@@ -2093,7 +2066,6 @@ proxies:
   servername: yandex.ru
   reality-opts:
     public-key: 5NDQBeOG4yGXBwm5NTzUHwezxLbTiFhW4X061I4ykVk
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇷🇺 RU-13567'
   type: vless
@@ -2339,7 +2311,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: ii8vkgTdrQCXZocDdyiZzQc5mIwBoYnVhcuAKb9wcRI
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇷🇺 RU-13613'
   type: vless
@@ -2365,7 +2336,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: ii8vkgTdrQCXZocDdyiZzQc5mIwBoYnVhcuAKb9wcRI
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇷🇺 RU-13615'
   type: vless
@@ -2428,7 +2398,6 @@ proxies:
   servername: yandex.ru
   reality-opts:
     public-key: 5NDQBeOG4yGXBwm5NTzUHwezxLbTiFhW4X061I4ykVk
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇷🇺 RU-13648'
   type: vless
@@ -2440,7 +2409,6 @@ proxies:
   servername: yandex.ru
   reality-opts:
     public-key: 5NDQBeOG4yGXBwm5NTzUHwezxLbTiFhW4X061I4ykVk
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇷🇺 RU-13657'
   type: vless
@@ -2583,7 +2551,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇫🇷 FR-1419'
   type: vless
@@ -2609,7 +2576,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: eP0MKUFOcNVSVFbHT8GgBLP4LIHZFq8JuVGlCAlH1HI
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇵🇱 PL-569'
   type: vless
@@ -2622,7 +2588,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇵🇱 PL-683'
   type: vless
@@ -2649,7 +2614,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇵🇱 PL-754'
   type: vless
@@ -2661,7 +2625,6 @@ proxies:
   servername: max.ru
   reality-opts:
     public-key: cCeGgxiO3VNTKwu3ncB6DORtOaDuC53BM3cNzQ2Elg4
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇬🇧 GB-506'
   type: vless
@@ -2739,7 +2702,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: vII0ktWC5uuvMBFEvgYpftqq6mCjEfCpEg_s8eT_oh8
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇬🇧 GB-688'
   type: vless
@@ -2765,7 +2727,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: I69t4VQEvCY-NlQuMVHGggvJ2aNo18gWstkmA-uQWxE
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇸🇪 SE-698'
   type: vless
@@ -2872,7 +2833,6 @@ proxies:
   servername: max.ru
   reality-opts:
     public-key: 47Ed7kX5tQ-RjXYv4i83WwnsQcLsyF4-rxT1Z01JhAc
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇪🇪 EE-276'
   type: vless
@@ -2885,7 +2845,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇪🇪 EE-277'
   type: vless
@@ -2923,7 +2882,6 @@ proxies:
   servername: max.ru
   reality-opts:
     public-key: cCeGgxiO3VNTKwu3ncB6DORtOaDuC53BM3cNzQ2Elg4
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇪🇪 EE-286'
   type: vless
@@ -2935,7 +2893,6 @@ proxies:
   servername: m.vkvideo.cs7777.vk.ru
   reality-opts:
     public-key: PzPuIsJG2yyrnO-9TKGyRxmo8DCJ6VCdpQ5l5l62QQQ
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇪🇪 EE-287'
   type: vless
@@ -2947,7 +2904,6 @@ proxies:
   servername: m.vkvideo.cs7777.vk.ru
   reality-opts:
     public-key: PzPuIsJG2yyrnO-9TKGyRxmo8DCJ6VCdpQ5l5l62QQQ
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇪🇪 EE-288'
   type: vless
@@ -2959,7 +2915,6 @@ proxies:
   servername: m.vkvideo.cs7777.vk.ru
   reality-opts:
     public-key: PzPuIsJG2yyrnO-9TKGyRxmo8DCJ6VCdpQ5l5l62QQQ
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇳🇴 NO-3'
   type: vless
@@ -2998,7 +2953,6 @@ proxies:
   client-fingerprint: random
   reality-opts:
     public-key: 59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14
-    short-id: ''
   network: tcp
 - name: '[22041]+-+Telegram+:+@configraygan'
   type: vless
@@ -3049,7 +3003,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw
-    short-id: ''
   network: tcp
 - name: '@OpenetVPN 1'
   type: vless
@@ -3062,7 +3015,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA
-    short-id: ''
   network: tcp
 - name: ⚡Telegram = @netroovpn12 1
   type: vless
@@ -3101,7 +3053,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: DPZKjPPf98W3z9BwfO5qVPHmhJkEUbA9OrqiKRBTZGQ
-    short-id: ''
   network: tcp
 - name: saeedi756
   type: vless
@@ -3296,7 +3247,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: 59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 5
   type: vless
@@ -3322,7 +3272,6 @@ proxies:
   client-fingerprint: random
   reality-opts:
     public-key: 59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 7
   type: vless
@@ -3387,7 +3336,6 @@ proxies:
   client-fingerprint: random
   reality-opts:
     public-key: Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 12
   type: vless
@@ -3400,7 +3348,6 @@ proxies:
   client-fingerprint: edge
   reality-opts:
     public-key: 1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 13
   type: vless
@@ -3413,7 +3360,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: 59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 14
   type: vless
@@ -3439,7 +3385,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: 1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 16
   type: vless
@@ -3452,7 +3397,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 17
   type: vless
@@ -3465,7 +3409,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 18
   type: vless
@@ -3719,7 +3662,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 37
   type: vless
@@ -3927,7 +3869,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 53
   type: vless
@@ -4044,7 +3985,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 62
   type: vless
@@ -4057,7 +3997,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: TaMOLW0wrgU13SvRWpjnlCWMs6nsdoQAN3RcApyu3yk
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 63
   type: vless
@@ -4083,7 +4022,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 65
   type: vless
@@ -4096,7 +4034,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 66
   type: vless
@@ -4213,7 +4150,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 75
   type: vless
@@ -4238,7 +4174,6 @@ proxies:
   servername: www.vk.com
   reality-opts:
     public-key: gBer2H45i735ynkGtcYhGELZXDIf5CfxpE4S_Cl4WGw
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 77
   type: vless
@@ -4289,7 +4224,6 @@ proxies:
   servername: www.vk.com
   reality-opts:
     public-key: gBer2H45i735ynkGtcYhGELZXDIf5CfxpE4S_Cl4WGw
-    short-id: ''
   network: tcp
 - name: 🇩🇪 TCP-Reality | @v2nodes
   type: vless
@@ -4744,7 +4678,6 @@ proxies:
   client-fingerprint: random
   reality-opts:
     public-key: Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 114
   type: vless
@@ -4796,7 +4729,6 @@ proxies:
   client-fingerprint: random
   reality-opts:
     public-key: T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 118
   type: vless
@@ -4965,7 +4897,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: Az7yi4Q-UKI-hsYKtO4wvn1iW4JVW5ivrIXO0ICYtE0
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 131
   type: vless
@@ -5069,7 +5000,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: zTH3m7h5RrVagZ5WnwEEoJIpFhHFW0bcKKf68h7eMno
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 139
   type: vless
@@ -5159,7 +5089,6 @@ proxies:
   servername: max.ru
   reality-opts:
     public-key: zTH3m7h5RrVagZ5WnwEEoJIpFhHFW0bcKKf68h7eMno
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 146
   type: vless
@@ -5484,7 +5413,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: Az7yi4Q-UKI-hsYKtO4wvn1iW4JVW5ivrIXO0ICYtE0
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 170
   type: vless
@@ -5523,7 +5451,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 173
   type: vless
@@ -5562,7 +5489,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 176
   type: vless
@@ -5588,7 +5514,6 @@ proxies:
   client-fingerprint: random
   reality-opts:
     public-key: 1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 178
   type: vless
@@ -5901,7 +5826,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: Az7yi4Q-UKI-hsYKtO4wvn1iW4JVW5ivrIXO0ICYtE0
-    short-id: ''
   network: tcp
 - name: 🇹🇷 TCP-Reality | @v2nodes
   type: vless
@@ -5991,7 +5915,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: TaMOLW0wrgU13SvRWpjnlCWMs6nsdoQAN3RcApyu3yk
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 200
   type: vless
@@ -6004,7 +5927,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: 1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA
-    short-id: ''
   network: tcp
 - name: 🌐 TCP-Reality | @filembad 201
   type: vless
@@ -8588,7 +8510,6 @@ proxies:
   servername: eh.vk.com
   reality-opts:
     public-key: isw9UCSqdj1pzN3KpqY634QY4eLCYmDrMgvI1XsQimA
-    short-id: ''
   network: grpc
   grpc-opts:
     grpc-service-name: grpc
@@ -8615,7 +8536,6 @@ proxies:
   servername: eh.vk.com
   reality-opts:
     public-key: isw9UCSqdj1pzN3KpqY634QY4eLCYmDrMgvI1XsQimA
-    short-id: ''
   network: grpc
   grpc-opts:
     grpc-service-name: grpc
@@ -8629,7 +8549,6 @@ proxies:
   servername: eh.vk.com
   reality-opts:
     public-key: isw9UCSqdj1pzN3KpqY634QY4eLCYmDrMgvI1XsQimA
-    short-id: ''
   network: tcp
 - name: 🇰🇿 Kazakhstan [SNI-RU] eh.vk.com 1
   type: vless
@@ -8641,7 +8560,6 @@ proxies:
   servername: eh.vk.com
   reality-opts:
     public-key: isw9UCSqdj1pzN3KpqY634QY4eLCYmDrMgvI1XsQimA
-    short-id: ''
   network: tcp
 - name: 🇱🇻 Latvia [SNI-RU] vk.com
   type: vless
@@ -9056,7 +8974,6 @@ proxies:
   servername: eh.vk.com
   reality-opts:
     public-key: isw9UCSqdj1pzN3KpqY634QY4eLCYmDrMgvI1XsQimA
-    short-id: ''
   network: tcp
 - name: 🇵🇱 Poland [SNI-RU] eh.vk.com 1
   type: vless
@@ -9068,7 +8985,6 @@ proxies:
   servername: eh.vk.com
   reality-opts:
     public-key: isw9UCSqdj1pzN3KpqY634QY4eLCYmDrMgvI1XsQimA
-    short-id: ''
   network: tcp
 - name: 🇵🇱 Poland [SNI-RU] stats.vk-portal.net
   type: vless
@@ -9159,7 +9075,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: BIEj0wpJm-frlQL_FMOswkGM7abbabORKbkOFABuYk8
-    short-id: ''
   network: tcp
 - name: 🇸🇪 Sweden [SNI-RU] max.ru
   type: vless
@@ -9172,7 +9087,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: BIEj0wpJm-frlQL_FMOswkGM7abbabORKbkOFABuYk8
-    short-id: ''
   network: xhttp
 - name: 🇸🇪 Sweden [SNI-RU] bank.ozon.ru 1
   type: vless
@@ -9185,7 +9099,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: BIEj0wpJm-frlQL_FMOswkGM7abbabORKbkOFABuYk8
-    short-id: ''
   network: tcp
 - name: 🇸🇪 Sweden [SNI-RU] max.ru 1
   type: vless
@@ -9198,7 +9111,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: BIEj0wpJm-frlQL_FMOswkGM7abbabORKbkOFABuYk8
-    short-id: ''
   network: xhttp
 - name: 🇳🇱 The Netherlands [SNI-RU] m.ok.ru
   type: vless
@@ -9367,7 +9279,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: KBtor6ap1Ml0bjcI_8UgdHhZYVYNOLuuYsuXsQUNGj0
-    short-id: ''
   network: tcp
 - name: 🇳🇱 The Netherlands [SNI-RU] stats.vk-portal.net 1
   type: vless
@@ -9872,7 +9783,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: KBtor6ap1Ml0bjcI_8UgdHhZYVYNOLuuYsuXsQUNGj0
-    short-id: ''
   network: tcp
 - name: 🇷🇺 Russia [SNI-RU] sun6-21.userapi.com 1
   type: vless
@@ -9898,7 +9808,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: iSj_dwyC0CVL-TPpvuGg5stTHIo5mX3sF6NYMwQYZxM
-    short-id: ''
   network: xhttp
 - name: 🇷🇺 Russia [SNI-RU] sun6-21.userapi.com 2
   type: vless
@@ -9963,7 +9872,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: iSj_dwyC0CVL-TPpvuGg5stTHIo5mX3sF6NYMwQYZxM
-    short-id: ''
   network: xhttp
 - name: 🇷🇺 Russia [SNI-RU] sun6-22.userapi.com 2
   type: vless
@@ -10563,7 +10471,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: 3uWYzm65qryajVsnj0Uanu8be-RhDBd6Ofy2EhQTZjw
-    short-id: ''
   network: tcp
 - name: '0141 | 🏳️ Whitelist | 🇱🇹 Lithuania | VLESS | TG: @STR_BYPASS'
   type: vless
@@ -10576,7 +10483,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: m-foGonYn9goyv5U_ffQ-DORHxz4bQ88RIJoim_n228
-    short-id: ''
   network: xhttp
 - name: '0157 | 🏳️ VK | 🌍 Unknown | VLESS | TG: @STR_BYPASS'
   type: vless
@@ -10628,7 +10534,6 @@ proxies:
   client-fingerprint: firefox
   reality-opts:
     public-key: 3uWYzm65qryajVsnj0Uanu8be-RhDBd6Ofy2EhQTZjw
-    short-id: ''
   network: tcp
 - name: '0254 | 🏳️ VK | 🇷🇺 Russia | VLESS | TG: @STR_BYPASS'
   type: vless
@@ -10680,7 +10585,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: 3uWYzm65qryajVsnj0Uanu8be-RhDBd6Ofy2EhQTZjw
-    short-id: ''
   network: tcp
 - name: '[OpenRay] 🇩🇪 DE-2707'
   type: vless
@@ -10796,7 +10700,6 @@ proxies:
   servername: eh.vk.com
   reality-opts:
     public-key: CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI
-    short-id: ''
   network: tcp
 - name: '🇺🇸 USA | No TORRENT!  xHTTP тгк: @STR_BYPASS'
   type: vless
@@ -10808,7 +10711,6 @@ proxies:
   servername: 01.img.avito.st
   reality-opts:
     public-key: PWkwR4XjH5BYgg6RAzdK-VXCsM_aP-jyZPc9BQdvPX8
-    short-id: ''
   network: xhttp
 - name: '🇵🇱 Польша xHTTP тгк: @STR_BYPASS'
   type: vless
@@ -10820,7 +10722,6 @@ proxies:
   servername: 01.img.avito.st
   reality-opts:
     public-key: FxIBDSWCNvavM2KWj1Nwiab03uo0xG4r9NME9FmCJCo
-    short-id: ''
   network: xhttp
 - name: '🇪🇪 Эстония  xHTTP тгк: @STR_BYPASS'
   type: vless
@@ -10832,7 +10733,6 @@ proxies:
   servername: 01.img.avito.st
   reality-opts:
     public-key: JmO_njtIe9q7HRanm_dx4BtPAGCkycJuDskOISPx_Sg
-    short-id: ''
   network: xhttp
 - name: '🇩🇪 Frankfurt 5 | тгк: @STR_BYPASS'
   type: vless
@@ -10857,7 +10757,6 @@ proxies:
   servername: cdn.tbank.ru
   reality-opts:
     public-key: P-3bYKbPp5YeCefayC3S3PvLanBv_lp0p_5qfrjbM34
-    short-id: ''
   network: xhttp
 - name: 🇩🇪 Germany [SNI only] sni=eh.vk.com
   type: vless
@@ -10921,7 +10820,6 @@ proxies:
   servername: 01.img.avito.st
   reality-opts:
     public-key: JmO_njtIe9q7HRanm_dx4BtPAGCkycJuDskOISPx_Sg
-    short-id: ''
   network: xhttp
 - name: 🇳🇱 The Netherlands, Amsterdam [BL]
   type: vless
@@ -11049,7 +10947,6 @@ proxies:
   servername: max.ru
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-    short-id: ''
   network: tcp
 - name: '🇩🇪 Germany — #103'
   type: vless
@@ -11384,7 +11281,6 @@ proxies:
   servername: 109.120.189.252
   reality-opts:
     public-key: ''
-    short-id: ''
   network: tcp
 - name: ''
   type: vless
@@ -11396,7 +11292,6 @@ proxies:
   servername: pol2.linkey37.ru
   reality-opts:
     public-key: ''
-    short-id: ''
   network: tcp
 - name: ' 1'
   type: vless
@@ -11408,7 +11303,6 @@ proxies:
   servername: 37.139.33.223
   reality-opts:
     public-key: ''
-    short-id: ''
   network: tcp
 - name: ' 2'
   type: vless
@@ -11420,7 +11314,6 @@ proxies:
   servername: 89.208.228.167
   reality-opts:
     public-key: ''
-    short-id: ''
   network: tcp
 - name: '@m_vipv2ray'
   type: vless
@@ -11432,7 +11325,6 @@ proxies:
   servername: 146.185.240.23
   reality-opts:
     public-key: ''
-    short-id: ''
   network: tcp
 - name: '@m_vipv2ray 1'
   type: vless
@@ -11444,7 +11336,6 @@ proxies:
   servername: 212.111.84.187
   reality-opts:
     public-key: ''
-    short-id: ''
   network: tcp
 - name: '@v2rayland02🌐'
   type: vless
@@ -11456,7 +11347,6 @@ proxies:
   servername: 146.185.208.206
   reality-opts:
     public-key: ''
-    short-id: ''
   network: tcp
 - name: '[🇷🇺]'
   type: vless
@@ -11468,7 +11358,6 @@ proxies:
   servername: 84.201.178.109
   reality-opts:
     public-key: ''
-    short-id: ''
   network: tcp
 - name: 🆔
   type: vless
@@ -11480,7 +11369,6 @@ proxies:
   servername: 130.193.59.133
   reality-opts:
     public-key: ''
-    short-id: ''
   network: tcp
 - name: 🆔 1
   type: vless
@@ -11492,7 +11380,6 @@ proxies:
   servername: 158.160.221.132
   reality-opts:
     public-key: ''
-    short-id: ''
   network: tcp
 - name: ۴
   type: vless
@@ -11504,7 +11391,6 @@ proxies:
   servername: 212.111.84.82
   reality-opts:
     public-key: ''
-    short-id: ''
   network: tcp
 - name: (@VmessProtocol)برای خرید و اتصال دائمی جوین شو🇩🇪
   type: vless
@@ -11523,7 +11409,6 @@ proxies:
   servername: 109.120.189.160
   reality-opts:
     public-key: ''
-    short-id: ''
   network: tcp
 - name: V2RAZ 1
   type: vless
@@ -11535,7 +11420,6 @@ proxies:
   servername: 217.16.27.208
   reality-opts:
     public-key: ''
-    short-id: ''
   network: tcp
 - name: V2RAZ 2
   type: vless
@@ -11547,7 +11431,6 @@ proxies:
   servername: 89.208.228.139
   reality-opts:
     public-key: ''
-    short-id: ''
   network: tcp
 - name: V2RAZ 3
   type: vless
@@ -11559,7 +11442,6 @@ proxies:
   servername: 217.16.25.94
   reality-opts:
     public-key: ''
-    short-id: ''
   network: tcp
 - name: '@vpnbaz 🛸'
   type: vless
@@ -11571,7 +11453,6 @@ proxies:
   servername: 37.139.33.57
   reality-opts:
     public-key: ''
-    short-id: ''
   network: tcp
 - name: '@vpnbaz 🧢'
   type: vless
@@ -11583,7 +11464,6 @@ proxies:
   servername: 37.139.33.57
   reality-opts:
     public-key: ''
-    short-id: ''
   network: tcp
 - name: '@vpnbaz 🎳'
   type: vless
@@ -11595,7 +11475,6 @@ proxies:
   servername: meow-msc.nethcloud.top
   reality-opts:
     public-key: ''
-    short-id: ''
   network: tcp
 - name: '@vpnbaz 🎭'
   type: vless
@@ -11607,7 +11486,6 @@ proxies:
   servername: 77.83.245.169
   reality-opts:
     public-key: ''
-    short-id: ''
   network: tcp
 - name: '@Vpn_V2rayNG_gap'
   type: vless
@@ -11619,7 +11497,6 @@ proxies:
   servername: 212.111.84.187
   reality-opts:
     public-key: ''
-    short-id: ''
   network: tcp
 - name: '@KIA_NET [TUR]```'
   type: vless
@@ -11775,7 +11652,6 @@ proxies:
   client-fingerprint: edge
   reality-opts:
     public-key: c4Mg3v790FPQbXO8uBoJysJYdFFJPhOw2TlnzC45a1U
-    short-id: ''
   network: tcp
 - name: ' Server284| Sonzai X'
   type: vless
@@ -12285,7 +12161,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw
-    short-id: ''
   network: tcp
 - name: '@Vip_Security join us - 366'
   type: vless
@@ -12324,7 +12199,6 @@ proxies:
   client-fingerprint: edge
   reality-opts:
     public-key: z6ja1quSA8bpLdIzWDb9Yj8mnl8Mw_Q0PZB6-3Jgg2U
-    short-id: ''
   network: tcp
 - name: '@Vip_Security join us - 189'
   type: vless
@@ -12535,7 +12409,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: YSkQioSPgjJfiRkpOvuoYxukh-1xdsD10TQCp1-udHI
-    short-id: ''
   network: xhttp
 - name: 🌐 Anycast-IP [*CIDR] VK
   type: vless
@@ -12661,7 +12534,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs
-    short-id: ''
   network: tcp
 - name: '🇦🇱 Albania — #26'
   type: vless
@@ -13313,7 +13185,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4
-    short-id: ''
   network: tcp
 - name: '🇩🇪 Germany — #96'
   type: vless
@@ -13350,7 +13221,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y
-    short-id: ''
   network: tcp
 - name: '🇩🇪 Germany — #100'
   type: vless
@@ -15739,7 +15609,6 @@ proxies:
   servername: github.com
   reality-opts:
     public-key: yn85hcEHrUN9Zx1j5BKDDEMJF-dUTW_1ZoTDSUz6lwA
-    short-id: ''
   network: tcp
 - name: '🇩🇪 Germany — #374'
   type: vless
@@ -16268,7 +16137,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: YSkQioSPgjJfiRkpOvuoYxukh-1xdsD10TQCp1-udHI
-    short-id: ''
   network: xhttp
 - name: '🇫🇮 Finland — #469'
   type: vless
@@ -17609,7 +17477,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs
-    short-id: ''
   network: tcp
 - name: '🇳🇱 The Netherlands — #647'
   type: vless
@@ -17633,7 +17500,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-    short-id: ''
   network: tcp
 - name: '🇳🇱 The Netherlands — #652'
   type: vless
@@ -17659,7 +17525,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-    short-id: ''
   network: tcp
 - name: '🇳🇱 The Netherlands — #656'
   type: vless
@@ -17872,7 +17737,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-    short-id: ''
   network: tcp
 - name: '🇳🇱 The Netherlands — #677'
   type: vless
@@ -17898,7 +17762,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-    short-id: ''
   network: tcp
 - name: '🇳🇱 The Netherlands — #680'
   type: vless
@@ -18259,7 +18122,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI
-    short-id: ''
   network: tcp
 - name: '🇺🇸 United States — #733'
   type: vless
@@ -18582,7 +18444,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM
-    short-id: ''
   network: tcp
 - name: '🇺🇸 United States — #767'
   type: vless
@@ -18621,7 +18482,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-    short-id: ''
   network: tcp
 - name: '🇺🇸 United States — #770'
   type: vless
@@ -18817,7 +18677,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-    short-id: ''
   network: tcp
 - name: '🇺🇸 United States — #804'
   type: vless
@@ -18830,7 +18689,6 @@ proxies:
   client-fingerprint: firefox
   reality-opts:
     public-key: cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA
-    short-id: ''
   network: tcp
 - name: '🇺🇸 United States — #809'
   type: vless
@@ -18870,7 +18728,6 @@ proxies:
   client-fingerprint: firefox
   reality-opts:
     public-key: cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA
-    short-id: ''
   network: tcp
 - name: '🇺🇸 United States — #816'
   type: vless
@@ -18922,7 +18779,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-    short-id: ''
   network: tcp
 - name: '🇺🇸 United States — #830'
   type: vless
@@ -18935,7 +18791,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-    short-id: ''
   network: tcp
 - name: '🇺🇸 United States — #834'
   type: vless
@@ -19063,7 +18918,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI
-    short-id: ''
   network: tcp
 - name: '🇺🇸 United States — #852'
   type: vless
@@ -19167,7 +19021,6 @@ proxies:
   servername: max.ru
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-    short-id: ''
   network: tcp
 - name: 🇷🇺 RU | CIDR | 7 | @ByeWhiteLists2
   type: vless
@@ -19295,7 +19148,6 @@ proxies:
   client-fingerprint: random
   reality-opts:
     public-key: s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo
-    short-id: ''
   network: raw
 - name: 🇷🇺 RU | CIDR | 93 | @ByeWhiteLists2
   type: vless
@@ -19320,7 +19172,6 @@ proxies:
   servername: max.ru
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-    short-id: ''
   network: tcp
 - name: 🇷🇺 RU | CIDR | 107 | @ByeWhiteLists2
   type: vless
@@ -19545,7 +19396,6 @@ proxies:
   client-fingerprint: random
   reality-opts:
     public-key: om55DmMjNGOg4Dp_zNEP_pqPKj4HM1XOJ2PcOt8aYRE
-    short-id: ''
   network: tcp
 - name: '0021 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu'
   type: vless
@@ -19593,7 +19443,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: YSkQioSPgjJfiRkpOvuoYxukh-1xdsD10TQCp1-udHI
-    short-id: ''
   network: xhttp
 - name: '0027 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu'
   type: vless
@@ -19681,7 +19530,6 @@ proxies:
   client-fingerprint: safari
   reality-opts:
     public-key: FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI
-    short-id: ''
   network: tcp
 - name: '0042 | 🇳🇱 Netherlands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu'
   type: vless
@@ -20056,7 +19904,6 @@ proxies:
   client-fingerprint: random
   reality-opts:
     public-key: 3A5zfKbNREk1vibr6yp4DWBWOR8BL31vBybWqe81UHE
-    short-id: ''
   network: tcp
 - name: '0112 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | 🏳️ SNI-Ozon | VLESS | TG: @YoutubeUnBlockRu'
   type: vless
@@ -20069,7 +19916,6 @@ proxies:
   client-fingerprint: random
   reality-opts:
     public-key: YdlYMlkQEq2dwe8pd2jItL8whM0fRBMxHHN7Bk78_H4
-    short-id: ''
   network: tcp
 - name: '0115 | 🇲🇩 Moldova | VLESS | 📺 YT | TG: @YoutubeUnBlockRu'
   type: vless
@@ -20200,7 +20046,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: YSkQioSPgjJfiRkpOvuoYxukh-1xdsD10TQCp1-udHI
-    short-id: ''
   network: xhttp
 - name: '0137 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu'
   type: vless
@@ -20449,7 +20294,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: YSkQioSPgjJfiRkpOvuoYxukh-1xdsD10TQCp1-udHI
-    short-id: ''
   network: xhttp
 - name: '0170 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | 🏳️ SNI-Ozon | VLESS | TG: @YoutubeUnBlockRu'
   type: vless
@@ -20462,7 +20306,6 @@ proxies:
   client-fingerprint: random
   reality-opts:
     public-key: iOMsvckwmLTIoikYRzpSLIeQ0vbpYmB_UjpIwwCOWxI
-    short-id: ''
   network: tcp
 - name: '0172 | 🇰🇷 South Korea | VLESS | 📺 YT | TG: @YoutubeUnBlockRu'
   type: vless
@@ -20756,7 +20599,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: 3MQ8keneMeXCznwXalfPuzwPM3bR7gIoA5Hvow2KKj0
-    short-id: ''
   network: tcp
 - name: '0215 | 🇹🇷 Turkey | VLESS | 📺 YT | TG: @YoutubeUnBlockRu'
   type: vless
@@ -21047,7 +20889,6 @@ proxies:
   servername: github.com
   reality-opts:
     public-key: Z3vR1_jmaSBNo_6b5Ai2WfopL4V-eZWZ8BozyPtlJmU
-    short-id: ''
   network: tcp
 - name: '0267 | 🇮🇱 Israel | VLESS | 📺 YT | TG: @YoutubeUnBlockRu'
   type: vless
@@ -21098,7 +20939,6 @@ proxies:
   client-fingerprint: random
   reality-opts:
     public-key: OIhzlaOTObsr3NMVBq1MqSlCCeELaBhZ1r7Z_1M6mRs
-    short-id: ''
   network: grpc
   grpc-opts:
     grpc-service-name: ''
@@ -21335,7 +21175,6 @@ proxies:
   client-fingerprint: random
   reality-opts:
     public-key: Z_2w2aTLCYIAysicWXoQrSedPErQa5QTNomruthlTAU
-    short-id: ''
   network: tcp
 - name: '0308 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu'
   type: vless
@@ -21606,7 +21445,6 @@ proxies:
   client-fingerprint: random
   reality-opts:
     public-key: pRsdYU_hqoFTLo_O5RxiVmP0CgHqurz_sAGWLQeC0Q0
-    short-id: ''
   network: tcp
 - name: '0353 | 🇷🇺 Russia | 🏳️ SNI-X5 | VLESS | TG: @YoutubeUnBlockRu'
   type: vless
@@ -21658,7 +21496,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: Z_2w2aTLCYIAysicWXoQrSedPErQa5QTNomruthlTAU
-    short-id: ''
   network: tcp
 - name: '0364 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu'
   type: vless
@@ -21918,7 +21755,6 @@ proxies:
   client-fingerprint: random
   reality-opts:
     public-key: fnUw8QN7ouBxOHyZgJZpJGOtivY_eBJ3ci1fb6XzE3k
-    short-id: ''
   network: tcp
 - name: '0406 | 🇩🇪 Germany | VLESS | 📺 YT | TG: @YoutubeUnBlockRu'
   type: vless
@@ -22051,7 +21887,6 @@ proxies:
   client-fingerprint: random
   reality-opts:
     public-key: Pfvo6n8_VZ8Fi7JWMcDjqj2318MqqcvmNkYhEBUgTk0
-    short-id: ''
   network: tcp
 - name: '0424 | 🇳🇱 Netherlands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu'
   type: vless
@@ -22245,7 +22080,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: hFUrDiZS6wJDQ-9zODxoAKpFCSrsIniEvjiFeHBFOns
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 14
   type: vless
@@ -22318,7 +22152,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: Ri3w3S-h0xY8FLIfKN0z2XX5wFhzGh4TxWcX_eAyYSI
-    short-id: ''
   network: grpc
   grpc-opts:
     grpc-service-name: ''
@@ -22340,7 +22173,6 @@ proxies:
   client-fingerprint: firefox
   reality-opts:
     public-key: 6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 21
   type: vless
@@ -22352,7 +22184,6 @@ proxies:
   servername: www.vk.com
   reality-opts:
     public-key: 59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 22
   type: vless
@@ -22391,7 +22222,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 24
   type: vless
@@ -22417,7 +22247,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 26
   type: vless
@@ -22430,7 +22259,6 @@ proxies:
   client-fingerprint: random
   reality-opts:
     public-key: Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 27
   type: vless
@@ -22482,7 +22310,6 @@ proxies:
   client-fingerprint: random
   reality-opts:
     public-key: 59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 31
   type: vless
@@ -22519,7 +22346,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: 1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 34
   type: vless
@@ -22558,7 +22384,6 @@ proxies:
   client-fingerprint: edge
   reality-opts:
     public-key: 1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 36
   type: vless
@@ -22571,7 +22396,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: 1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 37
   type: vless
@@ -22815,7 +22639,6 @@ proxies:
   client-fingerprint: random
   reality-opts:
     public-key: F_qGNQiChJNmBAcR4mRtkWlwfOfKh9vYKieWdUMUAh8
-    short-id: ''
   network: tcp
 - name: 🇷🇺 verified · t.me/XRayCheck 7
   type: vless
@@ -22931,7 +22754,6 @@ proxies:
   servername: ads.x5.ru
   reality-opts:
     public-key: c0Vy7DbsPgdcUerLNCyrwB5NXsFeeCTIikBMbrqRuj0
-    short-id: ''
   network: grpc
   grpc-opts:
     grpc-service-name: ''
@@ -23011,7 +22833,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 63
   type: vless
@@ -23039,7 +22860,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 65
   type: vless
@@ -23117,7 +22937,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 71
   type: vless
@@ -23130,7 +22949,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: 8QRITg7vnAG05KsxVVK4X1OIeVdXQ_NGBLmIbx3NpTE
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 72
   type: vless
@@ -23322,7 +23140,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 86
   type: vless
@@ -23347,7 +23164,6 @@ proxies:
   servername: x5.ru
   reality-opts:
     public-key: lJGBMgeSYrhJyK01eYOOfj-4v0Mie1ayZwbjQfm-SQI
-    short-id: ''
   network: tcp
 - name: 🇷🇺 verified · t.me/XRayCheck 11
   type: vless
@@ -23555,7 +23371,6 @@ proxies:
   client-fingerprint: random
   reality-opts:
     public-key: Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw
-    short-id: ''
   network: tcp
 - name: 🇷🇺 verified · t.me/XRayCheck 14
   type: vless
@@ -23592,7 +23407,6 @@ proxies:
   client-fingerprint: random
   reality-opts:
     public-key: Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 102
   type: vless
@@ -23670,7 +23484,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: aXMQhLjeAAcWkwlaSe5g8Kc30VjqQ0tavdLa9D40ejU
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 105
   type: vless
@@ -23734,7 +23547,6 @@ proxies:
   servername: my-rebar.shop
   reality-opts:
     public-key: 5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 110
   type: vless
@@ -23851,7 +23663,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: OfWIQxs1USVjN5-2hWhITF0-wqp4zvR1hahBWAESMHg
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 117
   type: vless
@@ -24029,7 +23840,6 @@ proxies:
   servername: my-rebar.shop
   reality-opts:
     public-key: 5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 126
   type: vless
@@ -24188,7 +23998,6 @@ proxies:
   client-fingerprint: random
   reality-opts:
     public-key: IoqdElDP9GWy1X-oJ_dn2mKlOGh7texrBsYyVY5Jf1Q
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 136
   type: vless
@@ -24227,7 +24036,6 @@ proxies:
   client-fingerprint: firefox
   reality-opts:
     public-key: 12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 139
   type: vless
@@ -24279,7 +24087,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: 9lgt2T0tmvOd-0ISEsSyvGSh464apiYJ2ZKVuh-tQE0
-    short-id: ''
   network: xhttp
 - name: 🌐 verified · t.me/XRayCheck 143
   type: vless
@@ -24318,7 +24125,6 @@ proxies:
   client-fingerprint: safari
   reality-opts:
     public-key: FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 145
   type: vless
@@ -24396,7 +24202,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: 59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 150
   type: vless
@@ -24550,7 +24355,6 @@ proxies:
   servername: google.com
   reality-opts:
     public-key: u2SN341e6nCCYhO_tVS06eVueV0EfyLQcjMesG7b_hA
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 160
   type: vless
@@ -24628,7 +24432,6 @@ proxies:
   client-fingerprint: safari
   reality-opts:
     public-key: FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 166
   type: vless
@@ -24728,7 +24531,6 @@ proxies:
   client-fingerprint: edge
   reality-opts:
     public-key: T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 171
   type: vless
@@ -24857,7 +24659,6 @@ proxies:
   servername: eh.vk.com
   reality-opts:
     public-key: jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 178
   type: vless
@@ -24882,7 +24683,6 @@ proxies:
   servername: www.vk.com
   reality-opts:
     public-key: nQ9qYNGAeJgmM8vRvh7NouOGx-cr2Con6wP5GEGluSU
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 180
   type: vless
@@ -24895,7 +24695,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: i8h-r1FlyMJIs6yelL6_K6V6KCZtIz5_cx8Z7UNflgA
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 181
   type: vless
@@ -24921,7 +24720,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: KVhYUSJqLjm_mcVijjx9v9mkNhKvDYCpgD9ch8_k-jg
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 183
   type: vless
@@ -24934,7 +24732,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: 8QRITg7vnAG05KsxVVK4X1OIeVdXQ_NGBLmIbx3NpTE
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 184
   type: vless
@@ -24947,7 +24744,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: _6NfjU9TYJnvp8qGYiv9OFsbdNyKZYPpNQEB4j3XWSs
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 185
   type: vless
@@ -24959,7 +24755,6 @@ proxies:
   servername: maps.yandex.ru
   reality-opts:
     public-key: Fwjkw5UxHuwbPdxHPehSkoyotv0akAhDWe9iX8VbFnA
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 186
   type: vless
@@ -24972,7 +24767,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: OeYN6yssTefryCX7q1XNvWHc6vFR_SaQSXh8mtIQW3Q
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 187
   type: vless
@@ -24985,7 +24779,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: 8QRITg7vnAG05KsxVVK4X1OIeVdXQ_NGBLmIbx3NpTE
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 188
   type: vless
@@ -25011,7 +24804,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: 29_-p7fuEyQF9n9U0iqmbvB1u39jJnygGqGL6bGysxg
-    short-id: ''
   network: tcp
 - name: 🇷🇺 verified · t.me/XRayCheck 36
   type: vless
@@ -25049,7 +24841,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: 8QRITg7vnAG05KsxVVK4X1OIeVdXQ_NGBLmIbx3NpTE
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 192
   type: vless
@@ -25087,7 +24878,6 @@ proxies:
   servername: maps.yandex.ru
   reality-opts:
     public-key: Fwjkw5UxHuwbPdxHPehSkoyotv0akAhDWe9iX8VbFnA
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 195
   type: vless
@@ -25160,7 +24950,6 @@ proxies:
   client-fingerprint: safari
   reality-opts:
     public-key: FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 201
   type: vless
@@ -25314,7 +25103,6 @@ proxies:
   servername: google.com
   reality-opts:
     public-key: xPcD0sXKZHYwuNUMhZVQ-1OeRY-j2OjAxn0BqikZr1o
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 213
   type: vless
@@ -25340,7 +25128,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI
-    short-id: ''
   network: tcp
 - name: 🇺🇸 verified · t.me/XRayCheck
   type: vless
@@ -25353,7 +25140,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: BQlSdhO-YAJQdGl58kbLior2xSnhXtpHOJVE6js3OnE
-    short-id: ''
   network: xhttp
 - name: 🇺🇸 verified · t.me/XRayCheck 1
   type: vless
@@ -25379,7 +25165,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: BQlSdhO-YAJQdGl58kbLior2xSnhXtpHOJVE6js3OnE
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 216
   type: vless
@@ -25405,7 +25190,6 @@ proxies:
   client-fingerprint: safari
   reality-opts:
     public-key: FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 218
   type: vless
@@ -25431,7 +25215,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: 1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 220
   type: vless
@@ -25479,7 +25262,6 @@ proxies:
   client-fingerprint: firefox
   reality-opts:
     public-key: ux7dvaHVn6eJ0d8zFNkWlB97ZmfLozzH7R_8qL0873A
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 224
   type: vless
@@ -25531,7 +25313,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 228
   type: vless
@@ -25647,7 +25428,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: 59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14
-    short-id: ''
   network: tcp
 - name: 🇷🇺 verified · t.me/XRayCheck 39
   type: vless
@@ -25751,7 +25531,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: YH_QnUEGzMHf8RjEDh5bRXocz7gq_QdrZWysD2yF_i8
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 241
   type: vless
@@ -26056,7 +25835,6 @@ proxies:
   servername: google.com
   reality-opts:
     public-key: OQjBJQGg4SWU7ty4f5pWrf7_RwBzYAAKgT8tuDaM_ko
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 262
   type: vless
@@ -26068,7 +25846,6 @@ proxies:
   servername: max.ru
   reality-opts:
     public-key: 6MZZxfYA3zNlMM62uHsBXo4xw0OphpukaIFsCYJy7kk
-    short-id: ''
   network: tcp
 - name: 🇷🇺 verified · t.me/XRayCheck 44
   type: vless
@@ -26080,7 +25857,6 @@ proxies:
   servername: google.com
   reality-opts:
     public-key: 75c5xQRTvk8fp55Bb0nlUHp-9y3BMrkgxP4HU8iBJFg
-    short-id: ''
   network: tcp
 - name: 🇩🇪 verified · t.me/XRayCheck 1
   type: vless
@@ -26105,7 +25881,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: QGlJtT7TdXFaIctNpsvykWqAgTR3VCq3Z0H94-QKHDc
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 264
   type: vless
@@ -26118,7 +25893,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: QGlJtT7TdXFaIctNpsvykWqAgTR3VCq3Z0H94-QKHDc
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 265
   type: vless
@@ -26131,7 +25905,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: RUmP25kyY81HDYYpbR4jIRoYNptg8-e0dfnhYlesF10
-    short-id: ''
   network: tcp
 - name: 🇺🇸 verified · t.me/XRayCheck 2
   type: vless
@@ -26143,7 +25916,6 @@ proxies:
   servername: usa1.jugploer.icu
   reality-opts:
     public-key: Hnf0rsS2jGwkYlpF4Yywc0jfEC4b96a-rREvrIz_4xM
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 266
   type: vless
@@ -26280,7 +26052,6 @@ proxies:
   client-fingerprint: qq
   reality-opts:
     public-key: 2dh6JEN82TzFbSjv2aLL-2xaPg5TQs8X_ulZCrGyfGc
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 275
   type: vless
@@ -26391,7 +26162,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 283
   type: vless
@@ -26441,7 +26211,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: 6Rnue6OH_WFz26ngjGmorX2l_XoPYaMWHLPYHOOGsHk
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 287
   type: vless
@@ -26571,7 +26340,6 @@ proxies:
   client-fingerprint: chrome
   reality-opts:
     public-key: gTLxGPaumAT1gY3dEXIbZcr0Ocspb1hdrEG5oBkPOA8
-    short-id: ''
   network: tcp
 - name: 🌐 verified · t.me/XRayCheck 297
   type: vless
