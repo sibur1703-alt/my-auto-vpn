@@ -7,7 +7,10 @@ def main():
     # Сюда можешь вставлять любые raw-ссылки через запятую.
     urls = [
         "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-checked.txt",
-        # "https://raw.githubusercontent.com/кто-то/еще/main/vless.txt",
+        "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt",
+        "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-SNI-RU-all.txt",
+        "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt",
+                # "https://raw.githubusercontent.com/кто-то/еще/main/vless.txt",
     ]
     
     # Используем set (множество) - оно автоматически удаляет дубликаты ссылок
